@@ -1,4 +1,4 @@
-# 🏠 Linear Regression - Housing Price Prediction
+#  Linear Regression - Housing Price Prediction
 
 This project implements **Simple & Multiple Linear Regression** using the **housing price dataset**.
 
@@ -9,7 +9,7 @@ This project implements **Simple & Multiple Linear Regression** using the **hous
 - Scikit-learn
 - Matplotlib, Seaborn
 
-## 📈 What This Project Does:
+##  What This Project Does:
 - Loads and cleans the housing dataset
 - Splits data into train/test sets
 - Trains a linear regression model
