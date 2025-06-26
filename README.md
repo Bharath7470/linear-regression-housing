@@ -1,2 +1,21 @@
-# linear-regression-housing
-In this project, I used Linear Regression to predict house prices based on features like area, bedrooms, and bathrooms. The model was trained using Python and evaluated with common regression metrics. This was completed as part of my AI/ML internship.
+# 🏠 Linear Regression - Housing Price Prediction
+
+This project implements **Simple & Multiple Linear Regression** using the **housing price dataset**.
+
+## 🔧 Tools Used
+- Python
+- Jupyter Notebook
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+
+## 📈 What This Project Does:
+- Loads and cleans the housing dataset
+- Splits data into train/test sets
+- Trains a linear regression model
+- Evaluates model using MAE, MSE, R²
+- Visualizes prediction results
+
+## 📁 Files in this Repo
+- `Linear_Regression_Housing.ipynb` – Main notebook
+- `housing.csv` – Dataset used
